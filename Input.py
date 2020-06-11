@@ -1,0 +1,5 @@
+print("who do you think I am?")
+input("Please input your content:")
+print("Oh,yes!")
+input("How old are you?")
+print("Oh,yes!")
